@@ -11,4 +11,6 @@ It is written in Python 3.9.1 with Jupyter Notebook.
 
 It is a fully functional solution.
 
+Here the Netmeds_details.csv is the output.
+
 
