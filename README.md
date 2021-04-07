@@ -12,7 +12,7 @@ It is written in Python 3.9.1 with Jupyter Notebook.
 
 It is a fully functional solution.
 
-Here the Netmeds_details.csv is the output.
+Here the [Medicine_details.csv](https://github.com/Supriyochow/Web-Scraping-of-netmeds-website-using-BeautifulSoup/blob/main/Medicine_details.csv) is the output.
 
 **Drawback**:- This code cannot take all the datas in the website as it cannot handles noneType values.
 
