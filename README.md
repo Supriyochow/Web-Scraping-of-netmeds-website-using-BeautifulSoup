@@ -13,4 +13,9 @@ It is a fully functional solution.
 
 Here the Netmeds_details.csv is the output.
 
+**Drawback**:- This code cannot take all the datas in the website as it cannot handles noneType values.
+
+# Changes has been made to avoid the drawback.  
+ Now we have all 27440 data of the medicine stored in the file
+
 
